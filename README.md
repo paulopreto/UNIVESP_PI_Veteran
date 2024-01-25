@@ -1,22 +1,32 @@
-# Projeto Integrador da UNIVESP
+# Apresentação Projeto Integrador UNIVESP
 
-## Descrição
-Breve descrição do seu projeto. O que ele faz e por que foi desenvolvido.
+## Sobre o Projeto
+Este repositório contém a apresentação do Projeto Integrador da Universidade Virtual do Estado de São Paulo (UNIVESP). A apresentação foi criada utilizando LaTeX com o pacote Beamer, focando em compartilhar experiências e dicas sobre o desenvolvimento do projeto.
 
-## Instalação
-Instruções sobre como instalar e configurar seu projeto. Inclua comandos ou etapas necessárias para a instalação.
+## Estrutura da Apresentação
+A apresentação cobre diversos aspectos do Projeto Integrador, incluindo:
 
-## Uso
-Como usar o seu projeto. Inclua exemplos de como executar o projeto, comandos específicos, ou capturas de tela.
+- Resultado do projeto
+- Tema escolhido
+- Escolha do tema
+- Trabalho em equipe
+- Reuniões de equipe
+- Participação do orientador
+- Dicas úteis
 
-## Contribuição
-Instruções sobre como outras pessoas podem contribuir para o seu projeto. Isso pode incluir instruções sobre pull requests e regras de conduta.
+Cada seção é projetada para fornecer insights valiosos e orientações práticas para a realização de um Projeto Integrador bem-sucedido.
+
+## Visualizando a Apresentação
+Para visualizar a apresentação, você pode compilar o arquivo `.tex` usando qualquer editor LaTeX que suporte a compilação de documentos Beamer. Alternativamente, você pode visualizar a apresentação diretamente no Overleaf.
+
+## Contribuições
+Contribuições para a apresentação são bem-vindas. Se você tiver sugestões ou melhorias, sinta-se à vontade para criar um `pull request` ou abrir um `issue`.
+
+## Autor
+- **Paulo Roberto Pereira Santiago** - *Desenvolvimento Inicial* - [paulopreto](https://github.com/paulopreto)
 
 ## Licença
-Especifique o tipo de licença sob a qual o seu projeto está disponibilizado. Por exemplo, "Este projeto está licenciado sob a Licença MIT".
-
-## Autores
-- Paulo Roberto Pereira Santiago - *Desenvolvimento inicial* - [paulopreto](https://github.com/paulopreto)
+Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Agradecimentos
-Agradeça a qualquer pessoa ou organização que ajudou no desenvolvimento do projeto.
+Agradeço a todos os colegas e professores da UNIVESP que contribuíram com insights e conhecimentos valiosos para a realização deste projeto.
